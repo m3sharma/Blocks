@@ -10,7 +10,7 @@ public class Animate implements Runnable{
 		while(true){
 			bp.update();
 			try {
-				Thread.sleep(10);
+				Thread.sleep(20);
 			} catch (InterruptedException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
