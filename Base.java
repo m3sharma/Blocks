@@ -21,7 +21,7 @@ public class Base {
 		
 		
 		
-		frame.setResizable(false);
+		frame.setResizable(true);
 	}
 
 	
